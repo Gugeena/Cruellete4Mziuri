@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Other/Ninety-Nine Studios.unity
+    guid: a2e8d1408a89b824f91d7b6c5b33ce9f
+  - enabled: 1
+    path: Assets/Scenes/Other/Disclaimer.unity
+    guid: dd31a96d41d5489459ed3990cf6b7d88
+  - enabled: 1
+    path: Assets/Scenes/Other/Intro.unity
+    guid: 00ee60cb0a1ebaf4da19983e3b0e19bb
+  - enabled: 1
+    path: Assets/Scenes/Other/MainMenu.unity
+    guid: 3875d3bc9cc08384fb50ea6c90398de6
+  - enabled: 0
+    path: Assets/Scenes/ThrowAways/MainMenuOld.unity
+    guid: 109ca552235e924459167df7b87c2c08
+  - enabled: 1
+    path: Assets/Scenes/Bosses/Act I/DiceBOSSBackup.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Bosses/Act I/PlinkoBoss.unity
+    guid: 0175996bbe904ac438eea4281e36e11d
+  - enabled: 1
+    path: Assets/Scenes/Bosses/Act I/BossSlotMachine.unity
+    guid: a138fa3adefc5e948b8f585ef525e45b
+  - enabled: 1
+    path: Assets/Scenes/Other/EndScreen.unity
+    guid: a4c98c717aed91c47ba8f9f46e088c99
+  - enabled: 0
+    path: Assets/Scenes/EndScreen.unity
+    guid: 1685d1c47ad8cf64b88110d6030cfd7a
+  - enabled: 0
+    path: Assets/Scenes/ThrowAways/DiceBOSS.unity
+    guid: 0a867668af101fb4b975c93934054e3f
+  - enabled: 0
+    path: Assets/Scenes/BuffedBosses/BuffedDiceBOSS.unity
+    guid: 02fa21f02eb0028418adab5fbebeb5e1
+  - enabled: 1
+    path: Assets/Scenes/BuffedBosses/BuffedDiceBOSS.unity
+    guid: 02fa21f02eb0028418adab5fbebeb5e1
+  - enabled: 1
+    path: Assets/Scenes/BuffedBosses/BuffedPlinkoBoss.unity
+    guid: be316a25b3bc04e40a61aab844e5992b
+  - enabled: 1
+    path: Assets/Scenes/BuffedBosses/BuffedSlotMachine.unity
+    guid: 82bc865755331c842aec1b88d593f1ab
+  m_configObjects: {}

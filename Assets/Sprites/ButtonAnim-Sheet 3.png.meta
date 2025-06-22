@@ -1,0 +1,1260 @@
+fileFormatVersion: 2
+guid: 0cd6f51fec649424bb0c0436afb99a60
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3220
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f35de6303cdf434389d0131e3cc62f9
+      internalID: -1119824142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_1
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 3220
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4fd82445027df47a60249707d9be39
+      internalID: 1759792852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_2
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 3220
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49b9d044d622dd4babf5508b6532d29
+      internalID: 1748485675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_3
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 3220
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86124b311ccecd647aa9ceb3e3a7bd36
+      internalID: 1374892948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_4
+      rect:
+        serializedVersion: 2
+        x: 4360
+        y: 3220
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8addfb03f58b5ee4396526cf733b1fda
+      internalID: 1166953391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_5
+      rect:
+        serializedVersion: 2
+        x: 5450
+        y: 3220
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9115f1178c5432f4596762ba0dd61d95
+      internalID: 2063059548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_6
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 3220
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9a12b19df511445939203ea23ad010
+      internalID: 733277692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2760
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4e0cfb9c1a013468ca4ba3add5aba5
+      internalID: -59327218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_8
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2760
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790a98c766f3af14e957e8fd95bf656a
+      internalID: 2105983826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_9
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 2760
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fbe1a34667abea41bbe3f7e1e1cfb1c
+      internalID: 862889620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_10
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 2760
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db68925e3fe4fe409700602de0d3aaf
+      internalID: 1618056937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_11
+      rect:
+        serializedVersion: 2
+        x: 4360
+        y: 2760
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5431c8b196ec74183651a4717053de
+      internalID: -1922434380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_12
+      rect:
+        serializedVersion: 2
+        x: 5450
+        y: 2760
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0a9f76b97bf09468bf3ee08de47c5f
+      internalID: 287318814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_13
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 2760
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e5c2746aff9c8419fdcd180fd728d3
+      internalID: 1196414327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2300
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444990d5fea938d4ca291840fbb0c6b4
+      internalID: -2140027288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_15
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2300
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57851e82803419e4ea96c3c84f0b8152
+      internalID: -1301259781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_16
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 2300
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491873ce684a89845849519f80e3a92d
+      internalID: -392963685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_17
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 2300
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33f0deecef85f6489af1aa95c13a67c
+      internalID: -1902350121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_18
+      rect:
+        serializedVersion: 2
+        x: 4360
+        y: 2300
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1e9ad0dac859f4e9e162960168f6d9
+      internalID: 305371661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_19
+      rect:
+        serializedVersion: 2
+        x: 5450
+        y: 2300
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae4746c35e4d174493ef615292c9925
+      internalID: -317403965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_20
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 2300
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbfcc97d49862b148a1f52655ebc8332
+      internalID: 1323678568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1840
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9fe25b933cc3204f87fb6498e695301
+      internalID: -246687615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_22
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1840
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c4c2a24f9df8b46aff1030692c0b04
+      internalID: 1172083029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_23
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1840
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d70e4763e630b841bee3f9f6d9814b0
+      internalID: 1740942968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_24
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 1840
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53abb50413dfd344881207bd4ccd8ca
+      internalID: -684218332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_25
+      rect:
+        serializedVersion: 2
+        x: 4360
+        y: 1840
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f592cb5421c47344bb429a4bfab74b74
+      internalID: -2007885487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_26
+      rect:
+        serializedVersion: 2
+        x: 5450
+        y: 1840
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166e777f2a1286542976bd76b70490a7
+      internalID: -1727241818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_27
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 1840
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfb61742be35124e9381fdce5023469
+      internalID: -1733602780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1380
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87693e3043bc1a947bfc8cb19483e3a7
+      internalID: -275905594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_29
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1380
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca2270e4dc30354cb71b6236e2d2dd0
+      internalID: 1550959177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_30
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1380
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34adbf249230e4e43a667602b46bbff5
+      internalID: 307839770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_31
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 1380
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c72983fef4ce342b1f2036f50ac4d7
+      internalID: -1811415402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_32
+      rect:
+        serializedVersion: 2
+        x: 4360
+        y: 1380
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332f6d9b03c69db4bb11c47a9fcc2c79
+      internalID: -689899207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_33
+      rect:
+        serializedVersion: 2
+        x: 5450
+        y: 1380
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4920349f956068d46b9126cacf4ef2de
+      internalID: 339670463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_34
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 1380
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44827ce7136df514790fee41af6a4049
+      internalID: -1248321436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 920
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b3744772f50784d993d214ec50590b
+      internalID: -1533320570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_36
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 920
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc65de7485bfb8d449b95f072b12fa8c
+      internalID: -1875582574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_37
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 920
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa3d12c890a7ba428039a633fbd6f6a
+      internalID: -7161173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_38
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 920
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c68ccd02bef7124a9da60e840fb7a72
+      internalID: 1348958720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_39
+      rect:
+        serializedVersion: 2
+        x: 4360
+        y: 920
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e657ef9849c0b4c80ccca11d77e4aa
+      internalID: 1255459483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_40
+      rect:
+        serializedVersion: 2
+        x: 5450
+        y: 920
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727de251964dd6746941a99f5f500b91
+      internalID: 1578691513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_41
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 920
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000ed96e053ebf44e9156c06f621beaa
+      internalID: 1730884697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 460
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4fadac00f042c4c91412643ef74c30
+      internalID: -27359221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_43
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 460
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aca2539440535a4da538d9e228ebbec
+      internalID: 1520689645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_44
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 460
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d59d3892ba2f434bb41a0c6f5c1d07f
+      internalID: -98794285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_45
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 460
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7323d6b1fe5b0cc4e829940b7493c5d4
+      internalID: 1420207445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_46
+      rect:
+        serializedVersion: 2
+        x: 4360
+        y: 460
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bac37bad33582147a4dc179a0729e55
+      internalID: 1940574218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_47
+      rect:
+        serializedVersion: 2
+        x: 5450
+        y: 460
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc87d209b41753408f0e2444d4a5680
+      internalID: 953251595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_48
+      rect:
+        serializedVersion: 2
+        x: 6540
+        y: 460
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc7aeccc63d76542877649a2b56db1a
+      internalID: 756796360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab61bb20ee3203a44b9aea70bd62417e
+      internalID: -10925661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_50
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 0
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8683d0d93b168604aac8aae7d80d8c6d
+      internalID: 1762145436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ButtonAnim-Sheet 3_51
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 0
+        width: 1090
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cf40f3c7d68f247abe1efd81b3049f
+      internalID: 1884750033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ButtonAnim-Sheet 3_0: -1119824142
+      ButtonAnim-Sheet 3_1: 1759792852
+      ButtonAnim-Sheet 3_10: 1618056937
+      ButtonAnim-Sheet 3_11: -1922434380
+      ButtonAnim-Sheet 3_12: 287318814
+      ButtonAnim-Sheet 3_13: 1196414327
+      ButtonAnim-Sheet 3_14: -2140027288
+      ButtonAnim-Sheet 3_15: -1301259781
+      ButtonAnim-Sheet 3_16: -392963685
+      ButtonAnim-Sheet 3_17: -1902350121
+      ButtonAnim-Sheet 3_18: 305371661
+      ButtonAnim-Sheet 3_19: -317403965
+      ButtonAnim-Sheet 3_2: 1748485675
+      ButtonAnim-Sheet 3_20: 1323678568
+      ButtonAnim-Sheet 3_21: -246687615
+      ButtonAnim-Sheet 3_22: 1172083029
+      ButtonAnim-Sheet 3_23: 1740942968
+      ButtonAnim-Sheet 3_24: -684218332
+      ButtonAnim-Sheet 3_25: -2007885487
+      ButtonAnim-Sheet 3_26: -1727241818
+      ButtonAnim-Sheet 3_27: -1733602780
+      ButtonAnim-Sheet 3_28: -275905594
+      ButtonAnim-Sheet 3_29: 1550959177
+      ButtonAnim-Sheet 3_3: 1374892948
+      ButtonAnim-Sheet 3_30: 307839770
+      ButtonAnim-Sheet 3_31: -1811415402
+      ButtonAnim-Sheet 3_32: -689899207
+      ButtonAnim-Sheet 3_33: 339670463
+      ButtonAnim-Sheet 3_34: -1248321436
+      ButtonAnim-Sheet 3_35: -1533320570
+      ButtonAnim-Sheet 3_36: -1875582574
+      ButtonAnim-Sheet 3_37: -7161173
+      ButtonAnim-Sheet 3_38: 1348958720
+      ButtonAnim-Sheet 3_39: 1255459483
+      ButtonAnim-Sheet 3_4: 1166953391
+      ButtonAnim-Sheet 3_40: 1578691513
+      ButtonAnim-Sheet 3_41: 1730884697
+      ButtonAnim-Sheet 3_42: -27359221
+      ButtonAnim-Sheet 3_43: 1520689645
+      ButtonAnim-Sheet 3_44: -98794285
+      ButtonAnim-Sheet 3_45: 1420207445
+      ButtonAnim-Sheet 3_46: 1940574218
+      ButtonAnim-Sheet 3_47: 953251595
+      ButtonAnim-Sheet 3_48: 756796360
+      ButtonAnim-Sheet 3_49: -10925661
+      ButtonAnim-Sheet 3_5: 2063059548
+      ButtonAnim-Sheet 3_50: 1762145436
+      ButtonAnim-Sheet 3_51: 1884750033
+      ButtonAnim-Sheet 3_52: -1269133061
+      ButtonAnim-Sheet 3_53: 1874060871
+      ButtonAnim-Sheet 3_6: 733277692
+      ButtonAnim-Sheet 3_7: -59327218
+      ButtonAnim-Sheet 3_8: 2105983826
+      ButtonAnim-Sheet 3_9: 862889620
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
