@@ -14508,7 +14508,9 @@ MonoBehaviour:
   DiceBoss: {fileID: 1937388132}
   SlotBoss: {fileID: 0}
   PlinkoBoss: {fileID: 0}
+  DiceBossDuo: {fileID: 0}
   IsHeavyAttacking: 0
+  audioManager: {fileID: 1467130150}
 --- !u!61 &1687623858
 BoxCollider2D:
   m_ObjectHideFlags: 0

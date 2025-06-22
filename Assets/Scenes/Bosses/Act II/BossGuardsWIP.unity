@@ -2972,6 +2972,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1337055522}
     - target: {fileID: 1283280718897542450, guid: d879414632ea194459f826306c33ea67, type: 3}
+      propertyPath: audioManager
+      value: 
+      objectReference: {fileID: 691688165}
+    - target: {fileID: 1283280718897542450, guid: d879414632ea194459f826306c33ea67, type: 3}
       propertyPath: HPanims.Array.data[0]
       value: 
       objectReference: {fileID: 362653197}

@@ -40,7 +40,7 @@ public class MovementScript : MonoBehaviour
     public GameObject shakeCam;
     public Animator fadeOutAnim;
 
-    bool dead;
+    public static bool dead;
 
     public AudioManager am;
     public AudioSource[] audioSources;
@@ -79,6 +79,8 @@ public class MovementScript : MonoBehaviour
 
     bool onMovePlat;
     Rigidbody2D platformRB;
+
+    public GameObject audioManager;
 
     void Start()
     {
@@ -431,8 +433,9 @@ public class MovementScript : MonoBehaviour
         dead = true;
         shakeCam.SetActive(true);
         fadeOutAnim.Play("sceneFadeOut");
-        audioMixer.SetFloat("music", -80);
-        audioMixer.SetFloat("sfxVolume", -80);
+        //audioMixer.SetFloat("music", -80);
+        //audioMixer.SetFloat("sfxVolume", -80);
+        audioManager.SetActive(false);
         yield return new WaitForSecondsRealtime(1.2f);
         bossDeactivation();
         hasgoneforsalt = true;

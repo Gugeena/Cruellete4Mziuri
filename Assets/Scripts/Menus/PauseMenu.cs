@@ -16,7 +16,7 @@ public class PauseMenu : MonoBehaviour
     }
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape) && !running)
+        if (Input.GetKeyDown(KeyCode.Escape) && !running && !MovementScript.dead)
         {
             if (!gamePaused) StartCoroutine(pauseGame());
             else StartCoroutine(unPauseGame());
