@@ -1165,7 +1165,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 6.7100525}
+  m_AnchoredPosition: {x: 0, y: 6.710083}
   m_SizeDelta: {x: -345.14, y: -229.21008}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &406282120
@@ -4593,7 +4593,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -111.900024, y: -88.84}
+  m_AnchoredPosition: {x: -111.900024, y: -88.839966}
   m_SizeDelta: {x: -260.61, y: -207.94}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1270083536
@@ -5083,7 +5083,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.8477783, y: -2.1194153}
+  m_AnchoredPosition: {x: 0.8477783, y: -2.1193848}
   m_SizeDelta: {x: 698.4099, y: 510.25}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1408058634
@@ -5845,7 +5845,7 @@ MonoBehaviour:
     m_VerticalOverflow: 1
     m_LineSpacing: 1
   m_Text: "Fonts Used\nVCR OSD Mono\n\nSounds Used\nCasino Slot Machine \nAdding
-    Machine\nby Mr. Sound FX\n\nSpecial Thanks\n\nFartFish\nswagshaw\nVlaso\n"
+    Machine\nby Mr. Sound FX\n\nSpecial Thanks to\n\nMziuri\nPlaytesters\nVlaso\n"
 --- !u!222 &1560209091
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -5891,7 +5891,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 51.399994}
+  m_AnchoredPosition: {x: 0, y: 51.400024}
   m_SizeDelta: {x: -309.05, y: -149.26}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!95 &1582972441
